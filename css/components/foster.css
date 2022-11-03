@@ -1,0 +1,14 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #000000;
+}
+.footer a {
+  font-size: 30px;
+  color: #fb0404;
+}
+
+.fa-brands, .fab{
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 400;
+}
