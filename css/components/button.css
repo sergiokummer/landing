@@ -21,7 +21,6 @@
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  text-decoration: none;
 }
 
 .btn-yours:before {
